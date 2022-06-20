@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# [Blog](https://qqs-diary.tistory.com/)
+
+
+
+
 <!--
 **Yejin-Moon/Yejin-Moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
