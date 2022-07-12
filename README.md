@@ -6,7 +6,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-DB Project - https://qqs-diary.tistory.com/34
 
 
 <!--
